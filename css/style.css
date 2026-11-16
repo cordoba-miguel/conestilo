@@ -1,0 +1,399 @@
+
+/* ESTILOS GENERALES DE INICIO */
+
+.pagina-inicio {
+    background-color: #F0F2E9;
+}
+
+/* TITULOS */
+
+.inicio-centrado {
+    text-align: center;
+}
+
+.inicio-titulo {
+    color: #556b2f;
+}
+
+/* LINEAS */
+
+.inicio-linea-principal {
+    border: none;
+    height: 4px;
+    background-color: #556b2f;
+}
+
+.inicio-linea-secundaria {
+    border: none;
+    height: 1px;
+    background-color: silver;
+}
+
+.inicio-linea-final {
+    border: none;
+    height: 2px;
+    background-color: #556b2f;
+}
+
+/* BARRA DE NAVEGACION */
+
+.inicio-navegacion {
+    width: 100%;
+    padding: 15px;
+    background-color: #556b2f;
+    text-align: center;
+}
+
+.inicio-navegacion a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* CONTENIDO PRINCIPAL */
+
+.inicio-contenido {
+    width: 75%;
+    padding: 10px;
+    margin: auto;
+}
+
+.inicio-contenido td {
+    text-align: center;
+}
+
+.inicio-texto-grande {
+    font-size: larger;
+}
+
+/* =================================
+   PAGINA DE INICIO DE SESION
+================================= */
+
+/* FONDO */
+
+.pagina-sesion {
+    background-color: #F0F2E9;
+}
+
+/* BARRA DE NAVEGACION */
+
+
+.sesion-navegacion a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* CONTENEDOR DEL FORMULARIO */
+
+.sesion-contenedor {
+    width: 350px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+/* TITULO */
+
+.sesion-titulo {
+    text-align: center;
+    background-color: #556B2F;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* DESCRIPCION */
+
+.sesion-descripcion {
+    text-align: center;
+}
+
+/* ETIQUETAS */
+
+.sesion-label {
+    color: #000000;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* CAMPOS DE ENTRADA */
+
+.sesion-input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #C5CEB5;
+    border-radius: 6px;
+    outline: none;
+}
+
+/* BOTON */
+
+.sesion-boton {
+    background-color: #556B2F;
+    color: white;
+    padding: 12px;
+    width: 100%;
+    border: none;
+    border-radius: 6px;
+}
+
+/* =================================
+   PAGINA DE CONTACTO
+================================= */
+
+/* FONDO */
+
+.pagina-contacto {
+    background-color: #F0F2E9;
+}
+
+/* ENCABEZADO */
+
+.contacto-encabezado {
+    text-align: center;
+}
+
+.contacto-encabezado h1 {
+    color: #556b2f;
+}
+
+/* LINEA PRINCIPAL */
+
+.contacto-linea-principal {
+    border: none;
+    height: 4px;
+    background-color: #556b2f;
+}
+
+/* BARRA DE NAVEGACION */
+
+
+.inicio-navegacion a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* CONTENEDOR DE CONTACTO */
+
+.contacto-contenedor {
+    width: 400px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+/* TITULO */
+
+.contacto-titulo {
+    color: #556B2F;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* LINEA INTERNA */
+
+.contacto-linea {
+    border: none;
+    height: 3px;
+    background-color: #556B2F;
+}
+
+/* INFORMACION DE CONTACTO */
+
+.contacto-parrafo {
+    line-height: 1.6;
+}
+
+/* SUBTITULOS */
+
+.contacto-subtitulo {
+    color: #556B2F;
+}
+
+/* ENLACES DE CONTACTO */
+
+.contacto-parrafo a {
+    color: #000000;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+/* =================================
+   PAGINA DE CONTACTO
+================================= */
+
+/* FONDO */
+
+.pagina-contacto {
+    background-color: #F0F2E9;
+}
+
+/* ENCABEZADO */
+
+.contacto-encabezado {
+    text-align: center;
+}
+
+.contacto-encabezado h1 {
+    color: #556b2f;
+}
+
+/* LINEA PRINCIPAL */
+
+.contacto-linea-principal {
+    border: none;
+    height: 4px;
+    background-color: #556b2f;
+}
+
+/* BARRA DE NAVEGACION */
+
+.contacto-navegacion {
+    width: 100%;
+    padding: 15px;
+    background-color: #556b2f;
+    text-align: center;
+}
+
+.contacto-navegacion a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* CONTENEDOR DE CONTACTO */
+
+.contacto-contenedor {
+    width: 400px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+/* TITULO */
+
+.contacto-titulo {
+    color: #556B2F;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* LINEA INTERNA */
+
+.contacto-linea {
+    border: none;
+    height: 3px;
+    background-color: #556B2F;
+}
+
+/* INFORMACION DE CONTACTO */
+
+.contacto-parrafo {
+    line-height: 1.6;
+}
+
+/* SUBTITULOS */
+
+.contacto-subtitulo {
+    color: #556B2F;
+}
+
+/* ENLACES DE CONTACTO */
+
+.contacto-parrafo a {
+    color: #000000;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+/* =================================
+   PAGINA DE SITIOS DE INTERES
+================================= */
+
+/* FONDO */
+
+.pagina-sitios {
+    background-color: #F0F2E9;
+}
+
+/* ENCABEZADO */
+
+.sitios-encabezado {
+    text-align: center;
+}
+
+.sitios-encabezado h1 {
+    color: #556b2f;
+}
+
+/* LINEA */
+
+.sitios-linea {
+    border: none;
+    height: 4px;
+    background-color: #556b2f;
+}
+
+
+
+/* CONTENEDOR PRINCIPAL */
+
+.sitios-contenedor {
+    width: 90%;
+    margin: 40px auto;
+}
+
+/* TITULO PRINCIPAL */
+
+.sitios-titulo {
+    text-align: center;
+    color: #556B2F;
+    font-size: 32px;
+}
+
+/* CONTENEDOR DE TARJETAS */
+
+.sitios-tarjetas {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+/* TARJETAS */
+
+.sitios-tarjeta {
+    width: 300px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+/* IMAGENES */
+
+.sitios-tarjeta img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* TITULOS DE LAS TARJETAS */
+
+.sitios-tarjeta h2 {
+    color: #556B2F;
+    font-size: 20px;
+}
+
+/* ENLACES */
+
+.sitios-tarjeta a {
+    color: #556B2F;
+    font-weight: bold;
+}
