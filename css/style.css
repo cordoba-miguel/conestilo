@@ -397,3 +397,95 @@
     color: #556B2F;
     font-weight: bold;
 }
+
+
+/* Página nosotros */
+.pagina-nosotros {
+    background-color: #F0F2E9;
+}
+
+/* Título principal */
+.inicio-nosotros {
+    text-align: center;
+    color: #556b2f;
+}
+
+/* Línea divisora */
+.linea-nosotros {
+    border: none;
+    background-color: #556b2f;
+    height: 4px;
+}
+
+/* Barra de navegación */
+.inicio-navegacion {
+    width: 100%;
+    background-color: #556b2f;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Enlaces de navegación */
+.navegacion a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Contenedor principal */
+.contenedor-nosotros {
+    width: 400px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+/* Títulos de la sección */
+.titulo-nosotros {
+    color: #556b2f;
+}
+
+/* Página arrendar */
+.pagina-arrendar {
+    background-color: #F0F2E9;
+}
+
+/* Título principal */
+.inicio-arrendar {
+    text-align: center;
+    color: #556b2f;
+}
+
+/* Línea divisora */
+.linea-arrendar {
+    border: none;
+    background-color: #556b2f;
+    height: 4px;
+}
+
+/* Encabezado de inmuebles */
+.encabezado-arrendar {
+    text-align: center;
+}
+
+.encabezado-arrendar h1 {
+    color: #556b2f;
+}
+
+/* Información de cada inmueble */
+.inmueble {
+    text-align: center;
+}
+
+/* Títulos de los inmuebles */
+.inmueble h2 {
+    color: #556b2f;
+}
+
+/* Imágenes de los inmuebles */
+.inmueble img {
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+}
